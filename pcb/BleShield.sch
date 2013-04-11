@@ -12187,8 +12187,8 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <part name="GND11" library="SparkFun" deviceset="GND" device=""/>
 <part name="R10" library="SparkFun" deviceset="RESISTOR" device="0805-RES" value="DNP"/>
 <part name="R11" library="SparkFun" deviceset="RESISTOR" device="0805-RES" value="DNP"/>
-<part name="R12" library="SparkFun" deviceset="RESISTOR" device="0805-RES" value="DNP"/>
-<part name="R13" library="SparkFun" deviceset="RESISTOR" device="0805-RES" value="DNP"/>
+<part name="R12" library="SparkFun" deviceset="RESISTOR" device="0805-RES" value="47k"/>
+<part name="R13" library="SparkFun" deviceset="RESISTOR" device="0805-RES" value="47k"/>
 <part name="JP1" library="SparkFun" deviceset="M05" device="1.27MM"/>
 <part name="JP2" library="SparkFun" deviceset="M04" device="1.27MM"/>
 <part name="JP4" library="SparkFun" deviceset="M05" device="1.27MM"/>

@@ -1966,10 +1966,10 @@ Please make sure your boards conform to these design rules.</description>
 <element name="R11" library="SparkFun" package="0805" value="DNP" x="8.5" y="40.5" smashed="yes">
 <attribute name="VALUE" x="7.484" y="39.103" size="0.4064" layer="27"/>
 </element>
-<element name="R12" library="SparkFun" package="0805" value="DNP" x="8.5" y="37.5" smashed="yes">
+<element name="R12" library="SparkFun" package="0805" value="47k" x="8.5" y="37.5" smashed="yes">
 <attribute name="VALUE" x="7.484" y="36.103" size="0.4064" layer="27"/>
 </element>
-<element name="R13" library="SparkFun" package="0805" value="DNP" x="8.5" y="36" smashed="yes">
+<element name="R13" library="SparkFun" package="0805" value="47k" x="8.5" y="36" smashed="yes">
 <attribute name="VALUE" x="7.484" y="34.603" size="0.4064" layer="27"/>
 </element>
 <element name="JP1" library="SparkFun" package="1X05-1.27MM" value="" x="38.608" y="36.322" smashed="yes" rot="R270">
